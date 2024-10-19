@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "cour5"
+version = "1"
+description = ""
+authors = ["Azat"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
